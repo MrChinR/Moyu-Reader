@@ -1,0 +1,11 @@
+{
+    "file_path": "novel.txt",
+    "chinese_fill_chars": ["★", "☆", "※"],
+    "font_family": "微软雅黑",
+    "font_size": 16,
+    "window_width": 400,
+    "window_height": 100,
+    "window_x": 100,
+    "window_y": 100,
+    "code": "utf-8"
+}
