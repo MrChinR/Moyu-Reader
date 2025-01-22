@@ -6,7 +6,6 @@ import keyboard
 from tkinter import font as tkfont
 from PIL import ImageGrab
 import json
-from tkinter import filedialog
 import chardet
 
 
