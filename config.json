@@ -7,5 +7,7 @@
     "window_height": 100,
     "window_x": 100,
     "window_y": 100,
-    "code": "utf-8"
+    "scale_factor": 1.25,
+    "code": "utf-8",
+    "last_book_folder": "C:\\books\\",
 }
